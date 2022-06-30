@@ -1,19 +1,10 @@
 #include <stdio.h>
-
-/
-
- * main - Entry point
- *
- *  * Return: Always 0 (sucess)
- *
- *   */
-
+/**
+ * main - print the size of various types
+ * Return: 0 if exited properly, non-zero otherwise
+ */
  int main(void)
-
 {
-
-	puts("\"Programming is like building a multilingual puzzle");
-
-	return (0);
-
+puts("\"Programming is like building a multilingual puzzle");
+return (0);
 }
